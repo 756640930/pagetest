@@ -1,0 +1,57 @@
+[
+  {
+    "name": "国家雪车雪橇中心",
+    "lng": 115.811984,
+    "lat": 40.547062,
+    "isMarker": true
+  },
+  {
+    "name": "京礼高速",
+    "lng": 116.005447,
+    "lat": 40.503283,
+    "isMarker": false
+
+  },
+  {
+    "name": "新华家园酒店",
+    "lng": 115.988697451341,
+    "lat": 40.451341,
+    "isMarker": true
+  },
+  {
+    "name": "大浮坨收费站",
+    "lng": 115.953138,
+    "lat": 40.386246,
+    "isMarker": true
+  },
+  {
+    "name": "京新高速",
+    "lng": 116.208007,
+    "lat": 40.323962,
+    "isMarker": false
+  },
+  {
+    "name": "京藏高速",
+    "lng": 116.091964,
+    "lat": 40.248537,
+    "isMarker": false
+  },
+  {
+    "name": "京礼高速",
+    "lng": 115.976608,
+    "lat": 40.180896,
+    "isMarker": false
+  },
+  {
+    "name": "首都机场",
+    "lng": 116.602777,
+    "lat": 40.080358,
+    "isMarker": true
+  },
+  {
+    "name": "北六环",
+    "lng": 116.325424,
+    "lat": 40.212365,
+    "isMarker": false
+  }
+]
